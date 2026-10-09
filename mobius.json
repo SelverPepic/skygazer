@@ -1,0 +1,55 @@
+{
+  "id": "cloudwatch",
+  "name": "Skygazer",
+  "version": "1.1.0",
+  "description": "Identify real cloud formations, read pressure and temperature trends, and play through archived weather cases.",
+  "author": "SelverPepic",
+  "license": "MIT",
+  "homepage": "https://github.com/SelverPepic/skygazer",
+  "entry": "index.jsx",
+  "icon": "icon.png",
+  "offline_capable": false,
+  "permissions": {
+    "cross_app_access": "none",
+    "share_with_apps": "none"
+  },
+  "static_assets": {
+    "index.html": "build/index.html",
+    "app.js": "build/app.js",
+    "styles.css": "build/styles.css",
+    "rounds.json": "build/rounds.json",
+    "CREDITS.md": "build/CREDITS.md",
+    "assets/bad-bergzabern.jpg": "build/assets/bad-bergzabern.jpg",
+    "assets/cloud-guide/altocumulus.jpg": "build/assets/cloud-guide/altocumulus.jpg",
+    "assets/cloud-guide/altostratus.jpg": "build/assets/cloud-guide/altostratus.jpg",
+    "assets/cloud-guide/cirrocumulus.jpg": "build/assets/cloud-guide/cirrocumulus.jpg",
+    "assets/cloud-guide/cirrostratus.jpg": "build/assets/cloud-guide/cirrostratus.jpg",
+    "assets/cloud-guide/cirrus.jpg": "build/assets/cloud-guide/cirrus.jpg",
+    "assets/cloud-guide/cumulonimbus.jpg": "build/assets/cloud-guide/cumulonimbus.jpg",
+    "assets/cloud-guide/cumulus.jpg": "build/assets/cloud-guide/cumulus.jpg",
+    "assets/cloud-guide/nimbostratus.jpg": "build/assets/cloud-guide/nimbostratus.jpg",
+    "assets/cloud-guide/stratocumulus.jpg": "build/assets/cloud-guide/stratocumulus.jpg",
+    "assets/cloud-guide/stratus.jpg": "build/assets/cloud-guide/stratus.jpg",
+    "assets/galley-common-02.jpg": "build/assets/galley-common-02.jpg",
+    "assets/galley-common-03.jpg": "build/assets/galley-common-03.jpg",
+    "assets/galley-common.jpg": "build/assets/galley-common.jpg",
+    "assets/saint-remeze.jpg": "build/assets/saint-remeze.jpg"
+  },
+  "runtime": {
+    "imports": [
+      "react"
+    ],
+    "esm_deps": []
+  },
+  "store": {
+    "tagline": "Read the sky. Guess what happens next.",
+    "description": "Explore real, location-tagged cloud photographs alongside archived pressure, temperature, and cloud-cover trends. First identify the cloud genus from visible clues, then predict what changes over the next three hours. Compare your guesses with the historical record and learn how clouds form, fade, and signal weather—and why pressure and temperature matter. Educational weather reading, not a live forecast or safety service.",
+    "screenshots": [
+      {
+        "src": "static/store/forecast-desk.png",
+        "alt": "Skygazer's forecast desk for Saint-Remèze, France, showing a real cloud photo with archived pressure, temperature, and cloud-cover trends.",
+        "label": "Read the sky and make a forecast"
+      }
+    ]
+  }
+}
