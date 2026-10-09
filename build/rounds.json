@@ -1,0 +1,295 @@
+[
+  {
+    "id": "saint-remeze",
+    "name": "Saint-Rem\u00e8ze, Ard\u00e8che, France",
+    "lat": 44.394713333333335,
+    "lon": 4.4955783333333335,
+    "date": "2015-04-30",
+    "photo_time": "13:09",
+    "hour": 13,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cumulus_humilis_-_39.jpg/1280px-Cumulus_humilis_-_39.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cumulus_humilis_-_39.jpg",
+    "photographer": "Medium69 (William Crochot)",
+    "license": "CC BY-SA 4.0",
+    "timezone": "Europe/Paris",
+    "data_source": "ERA5 reanalysis",
+    "hourly": [
+      {
+        "time": "2015-04-30T07:00",
+        "temperature_c": 4.7,
+        "pressure_hpa": 1019.1,
+        "cloud_pct": 14,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T08:00",
+        "temperature_c": 6.4,
+        "pressure_hpa": 1019.4,
+        "cloud_pct": 0,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T09:00",
+        "temperature_c": 10.2,
+        "pressure_hpa": 1019.1,
+        "cloud_pct": 0,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T10:00",
+        "temperature_c": 12.4,
+        "pressure_hpa": 1018.6,
+        "cloud_pct": 5,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T11:00",
+        "temperature_c": 13.9,
+        "pressure_hpa": 1018.6,
+        "cloud_pct": 16,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T12:00",
+        "temperature_c": 15.1,
+        "pressure_hpa": 1018.2,
+        "cloud_pct": 34,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T13:00",
+        "temperature_c": 16.2,
+        "pressure_hpa": 1017.5,
+        "cloud_pct": 54,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T14:00",
+        "temperature_c": 17.3,
+        "pressure_hpa": 1016.8,
+        "cloud_pct": 94,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T15:00",
+        "temperature_c": 18.1,
+        "pressure_hpa": 1016.0,
+        "cloud_pct": 98,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2015-04-30T16:00",
+        "temperature_c": 18.6,
+        "pressure_hpa": 1015.4,
+        "cloud_pct": 99,
+        "precip_mm": 0.0
+      }
+    ],
+    "local_image": "assets/saint-remeze.jpg",
+    "display_date": "30 APR 2015",
+    "photo_description": "Small, fair-weather cumulus humilis cloud above the Ard\u00e8che countryside.",
+    "cloud_type": "cumulus",
+    "cloud_evidence": "The photo is captioned as Cumulus humilis. The visible clue is a small, separate cotton-like heap with limited vertical growth; this is the fair-weather, shallow form of cumulus. The reanalysis shows daytime warming and growing cloud cover, useful context but not proof of cloud identity.",
+    "cloud_confidence": "High: cloud form is named in the source image and the shallow puffy shape is visible."
+  },
+  {
+    "id": "galley-common",
+    "name": "Galley Common, Warwickshire, England",
+    "lat": 52.524613,
+    "lon": -1.537307,
+    "date": "2022-06-11",
+    "photo_time": "15:56",
+    "hour": 16,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cirrus_clouds_Galley_Common_June_11_2022_01.jpg/1280px-Cirrus_clouds_Galley_Common_June_11_2022_01.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cirrus_clouds_Galley_Common_June_11_2022_01.jpg",
+    "photographer": "Rubbish computer",
+    "license": "CC BY-SA 4.0",
+    "timezone": "Europe/London",
+    "data_source": "ERA5 reanalysis",
+    "hourly": [
+      {
+        "time": "2022-06-11T10:00",
+        "temperature_c": 16.8,
+        "pressure_hpa": 1019.4,
+        "cloud_pct": 100,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2022-06-11T11:00",
+        "temperature_c": 17.3,
+        "pressure_hpa": 1019.5,
+        "cloud_pct": 37,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2022-06-11T12:00",
+        "temperature_c": 18.5,
+        "pressure_hpa": 1019.3,
+        "cloud_pct": 34,
+        "precip_mm": 0.1
+      },
+      {
+        "time": "2022-06-11T13:00",
+        "temperature_c": 19.2,
+        "pressure_hpa": 1019.4,
+        "cloud_pct": 46,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2022-06-11T14:00",
+        "temperature_c": 19.7,
+        "pressure_hpa": 1019.3,
+        "cloud_pct": 75,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2022-06-11T15:00",
+        "temperature_c": 19.5,
+        "pressure_hpa": 1019.4,
+        "cloud_pct": 84,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2022-06-11T16:00",
+        "temperature_c": 19.4,
+        "pressure_hpa": 1019.3,
+        "cloud_pct": 69,
+        "precip_mm": 0.1
+      },
+      {
+        "time": "2022-06-11T17:00",
+        "temperature_c": 18.5,
+        "pressure_hpa": 1019.5,
+        "cloud_pct": 28,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2022-06-11T18:00",
+        "temperature_c": 18.4,
+        "pressure_hpa": 1019.5,
+        "cloud_pct": 36,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2022-06-11T19:00",
+        "temperature_c": 17.8,
+        "pressure_hpa": 1019.7,
+        "cloud_pct": 19,
+        "precip_mm": 0.0
+      }
+    ],
+    "local_image": "assets/galley-common.jpg",
+    "display_date": "11 JUN 2022",
+    "photo_description": "High, delicate cirrus clouds above Galley Common.",
+    "cloud_type": "cirrus",
+    "cloud_evidence": "The fine, threadlike white streaks are high-level ice-cloud filaments, the characteristic appearance of cirrus. The wide sequence frames show other lower cloud forms too, so focus on the thin high wisps in the primary photo.",
+    "cloud_confidence": "High for the primary wisps: delicate, hairlike streaks at high level. The additional wide frames contain multiple cloud types.",
+    "gallery": [
+      {
+        "src": "assets/galley-common.jpg",
+        "label": "Primary \u00b7 high cirrus"
+      },
+      {
+        "src": "assets/galley-common-02.jpg",
+        "label": "Wide context \u00b7 same minute"
+      },
+      {
+        "src": "assets/galley-common-03.jpg",
+        "label": "Wide context \u00b7 same minute"
+      }
+    ]
+  },
+  {
+    "id": "bad-bergzabern",
+    "name": "Bad Bergzabern, Rhineland-Palatinate, Germany",
+    "lat": 49.105219445,
+    "lon": 7.995838888333333,
+    "date": "2018-05-14",
+    "photo_time": "21:24",
+    "hour": 21,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/004_2018_05_14_Extremes_Wetter.jpg/1280px-004_2018_05_14_Extremes_Wetter.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File:004_2018_05_14_Extremes_Wetter.jpg",
+    "photographer": "Friedrich Haag",
+    "license": "CC BY-SA 4.0",
+    "timezone": "Europe/Berlin",
+    "data_source": "ERA5 reanalysis",
+    "hourly": [
+      {
+        "time": "2018-05-14T15:00",
+        "temperature_c": 17.2,
+        "pressure_hpa": 1009.6,
+        "cloud_pct": 100,
+        "precip_mm": 0.2
+      },
+      {
+        "time": "2018-05-14T16:00",
+        "temperature_c": 16.8,
+        "pressure_hpa": 1009.4,
+        "cloud_pct": 99,
+        "precip_mm": 0.8
+      },
+      {
+        "time": "2018-05-14T17:00",
+        "temperature_c": 17.5,
+        "pressure_hpa": 1009.5,
+        "cloud_pct": 97,
+        "precip_mm": 1.6
+      },
+      {
+        "time": "2018-05-14T18:00",
+        "temperature_c": 17.0,
+        "pressure_hpa": 1009.0,
+        "cloud_pct": 100,
+        "precip_mm": 1.1
+      },
+      {
+        "time": "2018-05-14T19:00",
+        "temperature_c": 16.1,
+        "pressure_hpa": 1009.3,
+        "cloud_pct": 100,
+        "precip_mm": 0.3
+      },
+      {
+        "time": "2018-05-14T20:00",
+        "temperature_c": 16.0,
+        "pressure_hpa": 1009.5,
+        "cloud_pct": 100,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2018-05-14T21:00",
+        "temperature_c": 14.2,
+        "pressure_hpa": 1009.3,
+        "cloud_pct": 91,
+        "precip_mm": 0.1
+      },
+      {
+        "time": "2018-05-14T22:00",
+        "temperature_c": 13.5,
+        "pressure_hpa": 1009.5,
+        "cloud_pct": 52,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2018-05-14T23:00",
+        "temperature_c": 12.5,
+        "pressure_hpa": 1009.6,
+        "cloud_pct": 58,
+        "precip_mm": 0.0
+      },
+      {
+        "time": "2018-05-15T00:00",
+        "temperature_c": 12.1,
+        "pressure_hpa": 1009.7,
+        "cloud_pct": 85,
+        "precip_mm": 0.0
+      }
+    ],
+    "local_image": "assets/bad-bergzabern.jpg",
+    "display_date": "14 MAY 2018",
+    "photo_description": "Night sky with lightning over Bad Bergzabern during a thunderstorm.",
+    "cloud_type": "cumulonimbus",
+    "cloud_evidence": "Lightning establishes thunderstorm activity, consistent with cumulonimbus, but this night photo does not show a clear tower or anvil. The ID is therefore a lower-confidence storm-context classification, not a shape-based certainty.",
+    "cloud_confidence": "Lower: lightning implies a thunderstorm, but the silhouette is too dark to confirm a cumulonimbus outline from shape alone."
+  }
+]
